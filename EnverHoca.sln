@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnverHoca", "EnverHoca\EnverHoca.csproj", "{3CCB4E0F-640E-4E88-A4ED-2A2E25B5255B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CCB4E0F-640E-4E88-A4ED-2A2E25B5255B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCB4E0F-640E-4E88-A4ED-2A2E25B5255B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CCB4E0F-640E-4E88-A4ED-2A2E25B5255B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CCB4E0F-640E-4E88-A4ED-2A2E25B5255B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB70649E-8727-4EB1-B976-AC0E3B08FC5D}
+	EndGlobalSection
+EndGlobal
